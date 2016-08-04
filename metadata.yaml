@@ -1,0 +1,29 @@
+_repo: Hadda-Pada_4736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guðmundur Kamban
+    aliases:
+    - Kamban, Guðmundur Jónsson
+    - Kamban, Guðmundur
+    birthdate: 1888
+    deathdate: 1945
+    gutenberg_agent_id: '1563'
+    url: http://www.gutenberg.org/2009/agents/1563
+    wikipedia: http://en.wikipedia.org/wiki/Gu%C3%B0mundur_Kamban
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Iceland -- Drama'
+- !lcsh 'Icelandic drama -- Translations into English'
+- GITenberg
+title: Hadda Pada
+url: http://www.gutenberg.org/ebooks/4736
